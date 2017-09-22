@@ -10,6 +10,19 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ```markdown
 Syntax highlighted code block
+## Research Projects
+1. Travel Time and Roadway Capacity Reliability for an Aging Population
+
+2. Civil Engineering Support for the Traffic Monitoring Program 
+
+3. Establishing Traffic Enforcement Funding Allocation Criteria and Ranking. 
+
+4. Retrace of Pavement Marking Retroreflectivity levels in Tennessee Highways. 
+
+5. Bicycle and Pedestrians Route Planning in Pleasant View town, TN.
+
+6. Intersection Safety Evaluation and Capacity Analysis of Four Leg Un-Signalized Intersection located in Cooperstown, TN.
+
 
 # Header 1
 ## Header 2
