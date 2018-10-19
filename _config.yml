@@ -1,0 +1,16 @@
+# Site Settings
+title: Emmanuel Kidando
+#Name
+#name: Emmanuel Kidando
+# Bio
+description: Florida State University
+
+
+github_username:  ekidando
+# description: Florida State University
+url: "https://ekidando.github.io" # the base hostname & protocol for your site
+# baseurl: "/the/subpath/of/your/site" # Set this value to "" if you want your site to be root
+baseurl: "/emmanuelkidando"
+
+# Build settings
+markdown: kramdown
