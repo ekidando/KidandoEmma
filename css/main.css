@@ -329,6 +329,7 @@ code {
 
 
 #cover {
+  background: url("../images/1.jpg") no-repeat;
   color: #f1f1f1;
   background-size: cover;
   background-attachment: fixed;
