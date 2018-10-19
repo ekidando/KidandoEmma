@@ -354,7 +354,11 @@ code {
   opacity: 0.8;
 }
 
-
+#cover .block {
+  color: #E3E3E4;
+  padding-left: 90px;
+  text-align: center;
+}
 
 /**
  * clock css
